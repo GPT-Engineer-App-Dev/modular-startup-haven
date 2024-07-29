@@ -9,10 +9,10 @@ export const navItems = [
     page: <Index />,
   },
   {
-    title: "Settings",
-    to: "/settings",
+    title: "Preferences",
+    to: "/preferences",
     icon: <Settings className="h-4 w-4" />,
-    page: <div>Settings Page</div>,
+    page: <div>Preferences Page</div>,
   },
   {
     title: "Help",
