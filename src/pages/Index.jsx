@@ -4,7 +4,7 @@ const Index = () => {
   return (
     <div className="flex flex-col min-h-screen">
       <header className="bg-primary text-primary-foreground p-4">
-        <h1 className="text-2xl font-bold">My Application</h1>
+        <h1 className="text-2xl font-bold">Viktor's Application</h1>
       </header>
       
       <main className="flex-grow p-4">
@@ -14,7 +14,7 @@ const Index = () => {
       </main>
       
       <footer className="bg-muted p-4 text-center">
-        <p>&copy; 2024 My Application. All rights reserved.</p>
+        <p>&copy; 2024 Viktor's Application. All rights reserved.</p>
       </footer>
     </div>
   );
